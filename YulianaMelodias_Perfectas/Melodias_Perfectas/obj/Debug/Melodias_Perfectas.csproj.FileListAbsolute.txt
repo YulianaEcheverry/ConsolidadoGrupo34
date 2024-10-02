@@ -1,0 +1,26 @@
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\bin\Debug\Melodias_Perfectas.exe.config
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\bin\Debug\Melodias_Perfectas.exe
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\bin\Debug\Melodias_Perfectas.pdb
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.csproj.AssemblyReference.cache
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.csproj.SuggestedBindingRedirects.cache
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.Form1.resources
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.Properties.Resources.resources
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.csproj.GenerateResource.cache
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.csproj.CoreCompileInputs.cache
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.exe
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.pdb
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.IngresarDatos.resources
+C:\Users\dariu\OneDrive\Escritorio\Trabajo final\Melodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.Reporte.resources
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\bin\Debug\Melodias_Perfectas.exe.config
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\bin\Debug\Melodias_Perfectas.exe
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\bin\Debug\Melodias_Perfectas.pdb
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.csproj.AssemblyReference.cache
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.csproj.SuggestedBindingRedirects.cache
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.Form1.resources
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.IngresarDatos.resources
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.Properties.Resources.resources
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.Reporte.resources
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.csproj.GenerateResource.cache
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.csproj.CoreCompileInputs.cache
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.exe
+C:\Users\dariu\OneDrive\Escritorio\ConsolidadoFase2Grupo_34\YulianaMelodias_Perfectas\Melodias_Perfectas\obj\Debug\Melodias_Perfectas.pdb
